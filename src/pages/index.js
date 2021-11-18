@@ -13,7 +13,7 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>Welcome Malayalam Tech.</h1>
+    <h1>Welcome To Ml Tech.</h1>
    
     
     <StaticImage
